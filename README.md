@@ -6,11 +6,11 @@ A Raspberry Pi 5 home lab server featuring NVMe SSD boot, battery-backed UPS pro
   <table>
     <tr>
       <td><img src="screenshots/IMG_1943.jpeg" width="250" height="250" style="object-fit: cover;"></td>
-      <td><img src="screenshots/IMG1942.jpeg" width="250" height="250" style="object-fit: cover;"></td>
+      <td><img src="screenshots/IMG_1942.jpeg" width="250" height="250" style="object-fit: cover;"></td>
     </tr>
     <tr>
-      <td><img src="screenshots/IMG1941.jpeg" width="250" height="250" style="object-fit: cover;"></td>
-      <td><img src="screenshots/IMG1940.jpeg" width="250" height="250" style="object-fit: cover;"></td>
+      <td><img src="screenshots/IMG_1941.jpeg" width="250" height="250" style="object-fit: cover;"></td>
+      <td><img src="screenshots/IMG_1940.jpeg" width="250" height="250" style="object-fit: cover;"></td>
     </tr>
   </table>
 </div>
