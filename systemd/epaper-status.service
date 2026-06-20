@@ -1,0 +1,13 @@
+[Unit]
+Description=E-Paper Server Status
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=maeharam
+WorkingDirectory=/home/maeharam
+ExecStart=/usr/bin/python3 /home/maeharam/epaper_status.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
